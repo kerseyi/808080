@@ -6,3 +6,12 @@ body {
 img {
 	width: 100%;
 }
+
+.mains {
+	min-height: 
+	background-image: url(../img/SVG/sayItAgain.svg);
+	background-size: contain;
+	width: 100%;
+	min-height: 80vh;
+
+}
