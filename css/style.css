@@ -17,7 +17,7 @@ img {
 
 }
 
-.lasts {
+.last {
 	margin-top: 5vh;
 	background-image: url(../img/SVG/volk.svg);
 	background-repeat: no-repeat;
@@ -28,4 +28,5 @@ img {
 }
 .mission {
 	margin-top: 5vh;
+	font-size: 24px;
 }
