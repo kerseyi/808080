@@ -8,9 +8,15 @@ img {
 }
 
 .mains {
+	margin-top: 5vh;
 	background-image: url(../img/SVG/sayItAgain.svg);
+	background-repeat: no-repeat;
 	background-size: contain;
 	width: 100%;
-	min-height: 80vh;
+	min-height: 90vh;
 
+}
+
+.mission {
+	margin-top: 5vh;
 }
