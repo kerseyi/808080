@@ -9,7 +9,7 @@ img {
 
 .mains {
 	margin-top: 5vh;
-	background-image: url(../img/aniBoy.mp4);
+	background-image: url(../img/sayItAgain.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position-x: center;
@@ -45,7 +45,7 @@ img {
 	/* The only rule that matters */
 #video-background {
 /*  making the video fullscreen */
-  //position: fixed;
+  position: fixed;
   right: 0;
   bottom: 0;
   min-width: 100%;
