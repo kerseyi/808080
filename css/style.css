@@ -8,22 +8,22 @@ img {
 }
 
 .mains {
-	/**margin-top: 5vh;
+	margin-top: 5vh;
 	background-image: url(../img/aniBoy.mp4);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position-x: center;
 	background-position-y: center;
 	width: 100%;
-	min-height: 90vh;**/
+	min-height: 90vh;
 
-	position: fixed;
+	/**position: fixed;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
     overflow: hidden;
-    z-index: -100;
+    z-index: -100;**/
 
 }
 
