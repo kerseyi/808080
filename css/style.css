@@ -7,15 +7,19 @@ img {
 	width: 100%;
 }
 
+.aniBack {
+	background-color: black;
+}
 .mains {
-	margin-top: 5vh;
-	background-image: url(../img/sayItAgain.svg);
+	background-color: black;
+	//margin-top: 5vh;
+	background-image: url(../img/aniBoy.gif);
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	background-position-x: center;
 	background-position-y: center;
 	width: 100%;
-	min-height: 90vh;
+	min-height: 100vh;
 
 	/**position: fixed;
     top: 0;
@@ -54,3 +58,14 @@ img {
   height: auto;
   z-index: -100;
 }
+
+/*body {
+	//margin-top: 5vh;
+	background-image: url(../img/aniBoy.gif);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position-x: center;
+	background-position-y: center;
+	width: 100%;
+	min-height: 100vh;
+}*/
