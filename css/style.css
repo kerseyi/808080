@@ -7,18 +7,36 @@ img {
 	width: 100%;
 }
 
+svg {
+	width: 100%;
+}
+
 .aniBack {
 	background-color: black;
+}
+
+.aniBack img {
+	width: 100%;
+}
+
+.rollo{
+	//width: 100%;
+	min-height: 100vh;
+	background: url(../img/bobobo.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .mains {
 	background-color: black;
 	//margin-top: 5vh;
-	background-image: url(../img/aniBoy.gif);
+	/* background-image: url(../img/aniBoy.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position-x: center;
 	background-position-y: center;
-	width: 100%;
+	width: 100%; */
 	min-height: 100vh;
 
 	/**position: fixed;
@@ -43,6 +61,12 @@ img {
 .mission {
 	margin-top: 5vh;
 	font-size: 24px;
+	color: #808080;
+}
+
+.mission div  {
+	min-height: 75vh;
+	text-align: center;
 }
 
 
