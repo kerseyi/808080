@@ -66,16 +66,27 @@ svg {
 }
 
 .mission div  {
-	min-height: 100vh;
+	min-height: 80vh;
 	text-align: center;
-	//background-image: url(../img/SVG/drop.svg);
+	background-image: url(../img/SVG/drop.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 100%;
+	margin-top: 10vh;
 }
 
+.mission div:first-child{
+	margin-top: 10vh;
+}
+
+.mission div:last-child{
+	margin-bottom: 10vh;
+}
 .mission div p{
-	padding-top: 3vh;
+	padding-top: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 18px;
 }
 
 
